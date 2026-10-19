@@ -1,4 +1,4 @@
-# 🌐 LAB 37 - Configuring Routing Information Protocol (RIP) on Cisco Packet Tracer
+# 🌐  Configuring Routing Information Protocol (RIP) on Cisco Packet Tracer
 
 ## 🎯 Objective
 
@@ -258,6 +258,9 @@ show running-config | section rip
 ```
 
 ---
+## Network Topology
+
+![Enterprise Network Topology](topology-screenshot.png)
 
 # ✅ Result
 
